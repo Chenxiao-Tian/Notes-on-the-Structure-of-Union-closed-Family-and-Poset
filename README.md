@@ -1,4 +1,4 @@
-# Notes-on-the-Structure-of-Union-closed-Family-and-Poset
+# Notes-on-the-Structure-of-Union-closed-Family-and-Poset(In Preparation)
   A finite family F is union-closed if and only if for any A, B ∈ F implies A ∪ B ∈ F. The Families defined like this are
 well-known for the union-closed conjecture. In this notes, We mainly discuss the structure of
 Union-closed family based on definitions and
